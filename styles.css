@@ -1,0 +1,15 @@
+* {
+    font-size: 12px;
+}
+
+.heading {
+    color: #5a763e;
+}
+
+.padding-2 {
+    padding: 2px 4px;
+}
+
+.blueBg {
+    background-color: blue;
+}
